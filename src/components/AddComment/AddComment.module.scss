@@ -1,0 +1,30 @@
+.root {
+  display: flex;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 17px;
+}
+
+.avatar {
+  margin-right: 15px;
+}
+
+.form {
+  width: 100%;
+
+  button {
+    margin-top: 10px;
+  }
+}
+
+.contained__var {
+  border-radius: 20px !important;
+  padding: 9px 15px !important;
+  background-color: rgb(189, 107, 125) !important;
+  color: #fff !important;
+}
+
+.contained__var:hover {
+  background-color: rgb(184, 113, 136) !important;
+}
